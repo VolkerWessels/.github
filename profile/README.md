@@ -1,5 +1,5 @@
 
-![vw logo](./vw-logo.png)
+![vw logo](https://raw.githubusercontent.com/VolkerWessels/.github/main/profile/vw-logo.png)
 
 ## VolkerWessels is a leading international construction company that operates according to the 'think global, act local' principle. 
 VolkerWessels is active in the Netherlands, the United Kingdom, North America and Germany and has over 130 local operating companies. 
