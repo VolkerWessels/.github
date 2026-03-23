@@ -17,7 +17,7 @@ Available templates:
 - `vwid-development-dependency-update.md`
 - `vwid-development-hotfix.md`
 
-GitHub will expose these templates when creating a pull request from a repository that inherits community health files from this repository.
+When creating a pull request in a repository that inherits community health files from this repository, GitHub will expose these templates only if that repository does not define its own pull request templates.
 
 If you need to link directly to a specific template, use the `template` query string parameter with the file name.
 
