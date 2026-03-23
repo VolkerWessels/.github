@@ -1,4 +1,4 @@
-# Default: everything requires org-owner review
+# Default: files without a more specific rule require org-owner review
 * @VolkerWessels/VolkerWessels-OrgOwners
 
 # PR template ownership by team
