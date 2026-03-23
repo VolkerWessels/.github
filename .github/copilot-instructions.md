@@ -20,7 +20,7 @@ Assume the following unless the pull request clearly changes the design intentio
 
 - Pull request templates that must be selectable in GitHub should remain flat under `.github/PULL_REQUEST_TEMPLATE/`.
 - Team-specific documentation may live in subfolders under `.github/PULL_REQUEST_TEMPLATE/teams/`.
-- Template selection in the GitHub web UI is done with the `template=<file-name>` query string.
+- Template selection in the GitHub web UI can be preselected with the `template=<file-name>` query string.
 - Automated pull request creation through CI/CD, `gh pr create`, or the GitHub API should load template file contents into the pull request body instead of assuming GitHub will switch templates automatically.
 - Ownership delegation is controlled through `.github/CODEOWNERS` and only becomes enforceable when combined with branch protection or repository rulesets.
 - The repository profile content under `profile/` should remain accurate, professional, and suitable for organization-wide visibility.
